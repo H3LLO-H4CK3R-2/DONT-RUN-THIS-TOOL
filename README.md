@@ -10,11 +10,11 @@
 
 # HOW TO USE 
 
-cd KaliNethunter-install
+cd DONT-RUN-THIS-TOOL
 
 ls
 
-bash Install-kaliNethunter.sh
+bash DONT-RUN-THIS-TOOL.sh
 
 
 # FINISHED 
