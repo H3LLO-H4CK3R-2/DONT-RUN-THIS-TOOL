@@ -10,11 +10,15 @@
 
 # HOW TO USE 
 
+![20201112_160754](https://user-images.githubusercontent.com/74289306/98930095-27a1a780-2502-11eb-8bd7-b6873ac7a7c8.jpg)
+
 cd DONT-RUN-THIS-TOOL
 
 ls
 
 bash DONT-RUN-THIS-TOOL.sh
+
+![20201112_160754](https://user-images.githubusercontent.com/74289306/98930095-27a1a780-2502-11eb-8bd7-b6873ac7a7c8.jpg)
 
 
 # FINISHED 
